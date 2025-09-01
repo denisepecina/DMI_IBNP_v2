@@ -1,0 +1,21 @@
+Client_ID,Product_Type,Month_Minus_1,Month_Minus_2,Month_Minus_3
+ALS,All,0,0,0
+AMH,All,100,70,70
+ASL,All,100,100,100
+CHL,All,0,0,0
+COL,All,0,0,0
+GBR,All,100,100,100
+GTL,All,40,40,40
+NFL,All,250,250,250
+NSL,All,335,335,335
+OSW,All,0,0,0
+PEN,All,100,100,100
+PHS,All,30,30,30
+PLICA,Med Supp,70,75,80
+PLICA,Non Med Supp,0,105,110
+PML,ALL,0,0,0
+PRT,All,15,15,15
+SLI,All,55,50,50
+ULI,Med Supp,75,70,70
+USH,All,80,60,60
+XCH,All,30,30,30
